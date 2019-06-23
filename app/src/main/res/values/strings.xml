@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">SpeedUp</string>
-    <string name="settings_button">Settings</string>
+    <string name="settings_button">Refresh</string>
 </resources>
